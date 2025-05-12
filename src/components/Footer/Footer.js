@@ -114,7 +114,7 @@ const Footer = () => {
           <h3 className="text-xl font-bold text-cyan-500 mb-4">For Partners</h3>
           <ul className="space-y-2 text-sm">
             <li>
-              <Link to="/ComingSoon" className="hover:text-cyan-500">
+              <Link to="https://partner.door2fy.com/" className="hover:text-cyan-500">
                 Register as a Professional
               </Link>
             </li>

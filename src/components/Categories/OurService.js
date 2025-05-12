@@ -33,7 +33,7 @@ const ElectronicsSection = () => {
     // { imgSrc: '/assets/images/Coding.png', text: 'Coding Issue', link: '/coding-support' },
     {
       imgSrc: "/assets/images/Service-HD.png",
-      text: "Service Issue",
+      text: "Corporate services",
       link: "/service-support",
     },
     {

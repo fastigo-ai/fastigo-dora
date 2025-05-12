@@ -37,7 +37,7 @@ const SmoothScrollSlider = () => {
   return (
     <div className="w-full my-12">
       <div className="text-left md:text-center text-3xl md:text-4xl font-semibold font-sora mb-8 text-cyan-700 ml-4 md:ml-0 md:my-16">
-        Service Options
+        Service Opti
       </div>
 
       {/* Desktop Grid View */}
