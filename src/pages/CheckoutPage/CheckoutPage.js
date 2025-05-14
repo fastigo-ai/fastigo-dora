@@ -201,7 +201,7 @@ const CheckoutPage = () => {
         };
 
         try {
-          const apiRes = await fetch("https://formspree.io/f/movvpewj", {
+          const apiRes = await fetch("https://formspree.io/f/xovdponp", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(payload),
