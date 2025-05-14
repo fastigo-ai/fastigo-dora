@@ -90,7 +90,7 @@ const MacbookSupport = () => {
           duration: "45 mins.",
           description:
             "Complete diagnosis to identify the issue before repair.\n Final repair cost will be shared after the diagnosis",
-          price: 1,
+          price: 699,
           image: "/assets/images/Door2fyImage/Macbook-Support/DisplayIssue.jpg",
         },
         {
